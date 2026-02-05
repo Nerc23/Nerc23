@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 Currently working on AI-powered health monitoring and educational tools<br>- 🌱 Expanding my expertise in Machine Learning, Cloud Technologies, and Full-Stack AI Applications<br>- 👯 Open to collaborating on innovative AI projects and web applications<br>- 📫 Reach me: **nerciamotsepe@gmail.com**<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I'm a seasonal bookworm who loves diving into both code and novels!
+ -🔭 Currently working on AI-powered health monitoring and educational tools<br>- 🌱 Expanding my expertise in Machine Learning, Cloud Technologies, and Full-Stack AI Applications<br>- 👯 Open to collaborating on innovative AI projects and web applications<br>- 📫 Reach me: **nerciamotsepe@gmail.com**<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I'm a seasonal bookworm who loves diving into both code and novels!
 
 
 ## 🌐 Socials:
